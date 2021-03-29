@@ -1,0 +1,14 @@
+###### Convolution
+Input * Impulse ==> output
+
+$ Delta Function : ???
+$ Impulse Response : ???
+
+###### Convolution Kernel
+******31,32,33,34,35****** is important.
+
+
+###### Convolution Properties
+$ identity
+$ first difference and running sum
+$ Mathematical Properties

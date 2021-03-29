@@ -1,0 +1,42 @@
+###### Quantization
+Sample/Hold :
+Converts independent
+Variable from continuous
+To discrete
+
+Quantizer :
+Converts dependent variable from continious
+To discrete
+
+###### Sample Theorem
+* Analog Filters
+  ^ Bessel (IIR)
+  ^ Chebyshev
+  ^ Butterworth
+
+* Low Pass Filters
+* High Pass Filters
+* Sallen-Key Filters
+
+$ Step Response = Filter response to rapid imput value change.
+
+###### Information Encoding
+$ Frequency domain = Information is encoded in sine waves of signal.
+$ Time domain = Information is encoded in shape of waveform.
+
+###### Linear Systems & Surperposition
+$ Continuous signal : x(t), y(t)
+$ Discrete signal : x[t], y[t]
+
+$ Linear System has three properties :
+  ^ Homogeneity (x[t] -> system -> y[t]) === (kx[t] -> system -> ky[t])
+  ^ Additivity  (x1[t] -> system -> y1[t]) + (x2[t] -> system -> y2[t]) === (x1[t] + x2[t] -> system -> y1[t] + y2[t])
+  ^ Shift invariance (x[t] -> system -> y[t]) === (x[t + s] -> system -> y[t + s])
+
+$ Synthesis : Combining signals through scaling and addition.
+$ Decomposition : Breaking a signal into additive components.
+
+$ Impulse Decomposition : Breaking a signal into additive components. But N number of samples
+  signal  into N components signal.
+$ Step Decomposition : ???
+
