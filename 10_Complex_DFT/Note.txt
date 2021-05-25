@@ -1,0 +1,5 @@
+Complex Flourier Tramsform
+$ DFT Equivalence
+$ Mathematical Equivalence
+$ Complex DFT Equivalence
+
