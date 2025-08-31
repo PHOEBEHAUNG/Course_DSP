@@ -14,8 +14,7 @@ Basic Function : A set of sine and cosine waves with unity amplitude.
  - Simultaneous equations   
  - Correlation   
  - FFT   
-- Duality   
- Symmetry between Time domain and frequency domain-Duality.   
+- Duality Symmetry between Time domain and frequency domain-Duality.   
 - Polar Notation   
  - Rectangle Notation   
  - Polar  Notation   
@@ -25,9 +24,9 @@ Basic Function : A set of sine and cosine waves with unity amplitude.
  - Signal processing 
 - The Frequency Response
 
-==========================================
-Complex Number 
-$ Polar Notation 
-$ Euler’s Relation
-$ Representation of Sinusoids
-$ Representing Systems
+==========================================  
+Complex Number   
+* Polar Notation   
+* Euler’s Relation  
+* Representation of Sinusoids  
+* Representing Systems  
